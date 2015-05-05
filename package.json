@@ -1,0 +1,43 @@
+{
+  "name": "amdetective",
+  "version": "0.0.2",
+  "description": "AMD modules by walking the AST.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "require",
+    "source",
+    "analyze",
+    "ast",
+    "amd",
+    "detective"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mixu/amdetective.git"
+  },
+  "author": {
+    "name": "Mikito Takada",
+    "email": "mikito.takada@gmail.com",
+    "url": "http://mixu.net/"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "esprima": "~1.2.2",
+	"uglify-js": "2.4.16",
+	"connect-mongo": "0.4.1",
+	"mongodb": "1.4.15"
+  },
+  "readme": "",
+  "readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/mixu/amdetective/issues"
+  },
+  "homepage": "",
+  "_id": "amdetective@0.0.2",
+  "_shasum": "260777ab35a6b9ba6edd1b8d7280d3a8ef4859b0",
+  "_resolved": "https://registry.npmjs.org/amdetective/-/amdetective-0.0.2.tgz",
+  "_from": "amdetective@*"
+}

@@ -1,0 +1,5 @@
+[
+	"Application/controller/application/ApplicationPanel",
+	"Application/controller/application/ApplicationGrid",
+	"Application/controller/application/new/B1Tab"
+]

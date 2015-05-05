@@ -1,0 +1,8 @@
+[
+	"Application/controller/application/ApplicationPanel",
+	"Application/controller/applicationAuditing/AuditApplicationGrid",
+	"Application/controller/application/ApplicationPanel",
+	"Application/controller/applicationAuditing/AuditApplicationCompleteGrid",
+	"Application/controller/voyage/EditVoyageTag",
+	"Application/controller/voyage/Voyage"
+]

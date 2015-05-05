@@ -1,0 +1,32 @@
+{
+	"Admin": [
+		"Application/controller/application/ApplicationPanel",
+		"Application/controller/applicationAccept/AcceptApplicationGrid",
+		"Application/controller/application/ApplicationPanel",
+		"Application/controller/applicationAccept/AcceptCompleteGrid",
+		"Application/controller/application/ApplicationPanel",
+		"Application/controller/applicationAccept/AllocationGrid",
+		"Application/controller/user/User",
+		"Application/controller/user/Role",
+		"Application/controller/user/WaitAuditUser",
+		"Application/controller/department/Department",
+		"Application/controller/voyage/EditVoyageTag",
+		"Application/controller/voyage/Voyage",
+		"Application/controller/project/EditProject",
+		"Application/controller/project/Project",
+		"Application/controller/notification/NotificationList"
+	],
+	"VODC": [
+		"Application/controller/application/ApplicationPanel",
+		"Application/controller/applicationAuditing/AuditApplicationGrid",
+		"Application/controller/application/ApplicationPanel",
+		"Application/controller/applicationAuditing/AuditApplicationCompleteGrid",
+		"Application/controller/voyage/EditVoyageTag",
+		"Application/controller/voyage/Voyage"
+	],
+	"VTC": [
+		"Application/controller/application/ApplicationPanel",
+		"Application/controller/application/ApplicationGrid",
+		"Application/controller/application/new/B1Tab"
+	]
+}
